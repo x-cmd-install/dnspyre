@@ -1,0 +1,57 @@
+about:
+  description: CLI tool for a high QPS DNS benchmark
+  license: MIT
+  homepage: https://tantalor93.github.io/dnspyre/
+  head: b5aa78f
+  archived: false
+  latestVersion: v3.12.0
+  collectedAt: 2026-08-31T06:10:15Z
+timeline:
+  created: 2021-02-11
+  lastCommit: 2026-08-22
+  lastRelease: 2026-08-08
+popularity:
+  star: 327
+  watcher: 4
+  fork: 29
+  release: 77
+  contributor: 9
+  pullRequest: 120
+  issue: 18
+language:
+  Go: 191953
+  Shell: 327
+totalLine: 192280
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 1
+    mergedPR: 12
+    openPR: 3
+    closedIssue: 0
+    openIssue: 0
+    commit: 13
+  last90d:
+    since: 2026-06-02
+    release: 1
+    mergedPR: 27
+    openPR: 3
+    closedIssue: 0
+    openIssue: 0
+    commit: 35
+  last180d:
+    since: 2026-03-04
+    release: 4
+    mergedPR: 54
+    openPR: 4
+    closedIssue: 1
+    openIssue: 0
+    commit: 70
+  last360d:
+    since: 2025-09-05
+    release: 9
+    mergedPR: 85
+    openPR: 4
+    closedIssue: 1
+    openIssue: 0
+    commit: 123
