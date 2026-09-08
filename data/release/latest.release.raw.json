@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 18900746,
       "digest": "sha256:82f062249194c2f26d0b7d5d0ee446e94be9fc5e13519ce0d2ef296661e2de25",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-08T21:41:15Z",
       "updated_at": "2026-08-08T21:41:16Z",
       "browser_download_url": "https://github.com/Tantalor93/dnspyre/releases/download/v3.12.0/dnspyre_3.12.0_linux_amd64.apk"
