@@ -38,7 +38,7 @@ Total: **7,675** lines of code across **53** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 327 · **Forks**: 29 · **Open issues**: 18 · **Contributors**: 9
+- **Stars**: 328 · **Forks**: 29 · **Open issues**: 18 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **7,675** lines of code across **53** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 5 | 4 | 0 | 0 | 5 |
-| last60d | 2026-07-16 | 1 | 20 | 4 | 0 | 0 | 20 |
-| 90d | 2026-06-16 | 1 | 27 | 4 | 0 | 0 | 36 |
-| last180d | 2026-03-18 | 3 | 53 | 5 | 1 | 0 | 67 |
-| 360d | 2025-09-19 | 9 | 86 | 5 | 1 | 0 | 126 |
-| last720d | 2024-09-24 | 14 | 129 | 5 | 5 | 0 | 176 |
+| 30d | 2026-08-16 | 0 | 5 | 4 | 0 | 0 | 5 |
+| last60d | 2026-07-17 | 1 | 20 | 4 | 0 | 0 | 20 |
+| 90d | 2026-06-17 | 1 | 27 | 4 | 0 | 0 | 36 |
+| last180d | 2026-03-19 | 3 | 53 | 5 | 1 | 0 | 67 |
+| 360d | 2025-09-20 | 9 | 86 | 5 | 1 | 0 | 126 |
+| last720d | 2024-09-25 | 14 | 129 | 5 | 5 | 0 | 176 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for dnspyre lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T02:41:16Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T02:44:44Z._
