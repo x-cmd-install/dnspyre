@@ -4,7 +4,7 @@
 
 CLI tool for a high QPS DNS benchmark
 
-![dnspyre](https://repo.x-cmd.io/dnspyre.svg?lang=zh)
+[![x-cmd/install — dnspyre Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dnspyre.svg?lang=zh)](https://x-cmd.com/install/dnspyre)
 
 ## 安装
 
@@ -33,27 +33,27 @@ x install dnspyre
 ## 发布
 
 - **最新版本**: `v3.12.0` (2026-08-08)
-- **最近提交**: 2026-09-12
+- **最近提交**: 2026-09-19
 - **Release 含资产**: 36 个
 
 ## 流行度
 
-- **Star**: 328 · **Fork**: 29 · **开放 issue**: 18 · **贡献者**: 9
+- **Star**: 329 · **Fork**: 29 · **开放 issue**: 18 · **贡献者**: 9
 
 ## 累计统计
 
-- **发布数**: 77 · **已合并 PR**: 362 · **开放 PR**: 5 · **已关闭 issue**: 15 · **开放 issue**: 3 · **提交数**: 825
+- **发布数**: 77 · **已合并 PR**: 363 · **开放 PR**: 5 · **已关闭 issue**: 15 · **开放 issue**: 3 · **提交数**: 826
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 5 | 4 | 0 | 0 | 5 |
-| last60d | 2026-07-20 | 1 | 16 | 4 | 0 | 0 | 20 |
-| 90d | 2026-06-20 | 1 | 27 | 4 | 0 | 0 | 36 |
-| last180d | 2026-03-22 | 3 | 51 | 4 | 0 | 0 | 67 |
-| 360d | 2025-09-23 | 9 | 86 | 5 | 1 | 0 | 126 |
-| last720d | 2024-09-28 | 14 | 129 | 5 | 5 | 0 | 176 |
+| 30d | 2026-08-21 | 0 | 6 | 4 | 0 | 0 | 3 |
+| last60d | 2026-07-22 | 1 | 17 | 4 | 0 | 0 | 20 |
+| 90d | 2026-06-22 | 1 | 28 | 4 | 0 | 0 | 37 |
+| last180d | 2026-03-24 | 3 | 51 | 4 | 0 | 0 | 54 |
+| 360d | 2025-09-25 | 9 | 87 | 5 | 1 | 0 | 127 |
+| last720d | 2024-09-30 | 14 | 130 | 5 | 5 | 0 | 177 |
 
 ## Release 资产
 
@@ -105,4 +105,4 @@ dnspyre 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T02:31:01Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T02:40:49Z._

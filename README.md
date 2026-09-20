@@ -4,7 +4,7 @@
 
 CLI tool for a high QPS DNS benchmark
 
-![dnspyre](https://repo.x-cmd.io/dnspyre.svg)
+[![x-cmd/install — dnspyre Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dnspyre.svg)](https://x-cmd.com/install/dnspyre)
 
 ## Install
 
@@ -33,27 +33,27 @@ Total: **7,675** lines of code across **53** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.12.0` (2026-08-08)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-19
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 328 · **Forks**: 29 · **Open issues**: 18 · **Contributors**: 9
+- **Stars**: 329 · **Forks**: 29 · **Open issues**: 18 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 362 · **Open PRs**: 5 · **Closed issues**: 15 · **Open issues**: 3 · **Commits**: 825
+- **Releases**: 77 · **Merged PRs**: 363 · **Open PRs**: 5 · **Closed issues**: 15 · **Open issues**: 3 · **Commits**: 826
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 5 | 4 | 0 | 0 | 5 |
-| last60d | 2026-07-20 | 1 | 16 | 4 | 0 | 0 | 20 |
-| 90d | 2026-06-20 | 1 | 27 | 4 | 0 | 0 | 36 |
-| last180d | 2026-03-22 | 3 | 51 | 4 | 0 | 0 | 67 |
-| 360d | 2025-09-23 | 9 | 86 | 5 | 1 | 0 | 126 |
-| last720d | 2024-09-28 | 14 | 129 | 5 | 5 | 0 | 176 |
+| 30d | 2026-08-21 | 0 | 6 | 4 | 0 | 0 | 3 |
+| last60d | 2026-07-22 | 1 | 17 | 4 | 0 | 0 | 20 |
+| 90d | 2026-06-22 | 1 | 28 | 4 | 0 | 0 | 37 |
+| last180d | 2026-03-24 | 3 | 51 | 4 | 0 | 0 | 54 |
+| 360d | 2025-09-25 | 9 | 87 | 5 | 1 | 0 | 127 |
+| last720d | 2024-09-30 | 14 | 130 | 5 | 5 | 0 | 177 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for dnspyre lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T02:31:00Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T02:40:49Z._
