@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1615,
       "digest": "sha256:e6621fa6a0673f00d6807d72bb2168b700613ee6f4876361e8a4314f148ff527",
-      "download_count": 17,
+      "download_count": 19,
       "created_at": "2026-08-08T21:41:18Z",
       "updated_at": "2026-08-08T21:41:18Z",
       "browser_download_url": "https://github.com/Tantalor93/dnspyre/releases/download/v3.12.0/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 18631999,
       "digest": "sha256:3555d9e3add9c06299e0d47f155cbfeb8bfd5a2f0ce488cf88f7627365a3fca6",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-08-08T21:41:15Z",
       "updated_at": "2026-08-08T21:41:16Z",
       "browser_download_url": "https://github.com/Tantalor93/dnspyre/releases/download/v3.12.0/dnspyre_3.12.0_linux_386.apk"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 18294630,
       "digest": "sha256:4219804cdf1b6467a4e6c45b63c1d1e41cc37a5c572551b2ba459c072ba0139d",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-08T21:41:17Z",
       "updated_at": "2026-08-08T21:41:18Z",
       "browser_download_url": "https://github.com/Tantalor93/dnspyre/releases/download/v3.12.0/dnspyre_3.12.0_linux_386.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 18900746,
       "digest": "sha256:82f062249194c2f26d0b7d5d0ee446e94be9fc5e13519ce0d2ef296661e2de25",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-08-08T21:41:15Z",
       "updated_at": "2026-08-08T21:41:16Z",
       "browser_download_url": "https://github.com/Tantalor93/dnspyre/releases/download/v3.12.0/dnspyre_3.12.0_linux_amd64.apk"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 18518568,
       "digest": "sha256:b2d1d0530a966186557f38e8d03129542635710b76d873b21d265b9fcd35c7d6",
-      "download_count": 49,
+      "download_count": 50,
       "created_at": "2026-08-08T21:41:18Z",
       "updated_at": "2026-08-08T21:41:19Z",
       "browser_download_url": "https://github.com/Tantalor93/dnspyre/releases/download/v3.12.0/dnspyre_3.12.0_linux_amd64.deb"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 18496154,
       "digest": "sha256:139df306dfaa7a6d30dbe0dbcf225ce32d360801155cff66943509972696d4e7",
-      "download_count": 142,
+      "download_count": 146,
       "created_at": "2026-08-08T21:41:12Z",
       "updated_at": "2026-08-08T21:41:14Z",
       "browser_download_url": "https://github.com/Tantalor93/dnspyre/releases/download/v3.12.0/dnspyre_linux_amd64.tar.gz"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 18672764,
       "digest": "sha256:628dafb81218858cc22b9fb1cdbe78fb7033c1ca5d9d98ebc458243bcee0cbda",
-      "download_count": 108,
+      "download_count": 109,
       "created_at": "2026-08-08T21:41:14Z",
       "updated_at": "2026-08-08T21:41:15Z",
       "browser_download_url": "https://github.com/Tantalor93/dnspyre/releases/download/v3.12.0/dnspyre_windows_amd64.tar.gz"
