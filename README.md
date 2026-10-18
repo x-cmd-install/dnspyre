@@ -42,18 +42,18 @@ Total: **7,675** lines of code across **53** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 364 · **Open PRs**: 7 · **Closed issues**: 15 · **Open issues**: 3 · **Commits**: 827
+- **Releases**: 77 · **Merged PRs**: 364 · **Open PRs**: 9 · **Closed issues**: 15 · **Open issues**: 3 · **Commits**: 827
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 2 | 4 | 0 | 0 | 2 |
-| last60d | 2026-08-18 | 0 | 7 | 6 | 0 | 0 | 7 |
-| 90d | 2026-07-19 | 1 | 22 | 6 | 0 | 0 | 24 |
-| last180d | 2026-04-20 | 1 | 36 | 6 | 0 | 0 | 42 |
-| 360d | 2025-10-22 | 9 | 88 | 7 | 1 | 0 | 128 |
-| last720d | 2024-10-27 | 13 | 127 | 7 | 5 | 0 | 170 |
+| 30d | 2026-09-18 | 0 | 2 | 7 | 0 | 0 | 1 |
+| last60d | 2026-08-19 | 0 | 7 | 8 | 0 | 0 | 4 |
+| 90d | 2026-07-20 | 1 | 18 | 8 | 0 | 0 | 22 |
+| last180d | 2026-04-21 | 1 | 36 | 8 | 0 | 0 | 41 |
+| 360d | 2025-10-23 | 9 | 88 | 9 | 1 | 0 | 128 |
+| last720d | 2024-10-28 | 13 | 123 | 9 | 5 | 0 | 169 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for dnspyre lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T02:23:08Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T02:23:38Z._
