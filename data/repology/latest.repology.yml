@@ -1,0 +1,14 @@
+- repo: homebrew
+  srcname: dnspyre
+  visiblename: dnspyre
+  version: 3.12.0
+  origversion: null
+  status: unique
+  summary: CLI tool for a high QPS DNS benchmark
+- repo: homebrew
+  srcname: dnspyre
+  visiblename: dnspyre
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CLI tool for a high QPS DNS benchmark
