@@ -33,7 +33,7 @@ Total: **7,675** lines of code across **53** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.12.0` (2026-08-08)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-10-31
 - **Assets in release**: 36
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **7,675** lines of code across **53** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 364 · **Open PRs**: 9 · **Closed issues**: 15 · **Open issues**: 3 · **Commits**: 827
+- **Releases**: 77 · **Merged PRs**: 365 · **Open PRs**: 9 · **Closed issues**: 15 · **Open issues**: 3 · **Commits**: 828
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-09-01 | 0 | 4 | 7 | 0 | 0 | 4 |
-| 90d | 2026-08-02 | 1 | 17 | 8 | 0 | 0 | 21 |
-| last180d | 2026-05-04 | 1 | 34 | 8 | 0 | 0 | 41 |
-| 360d | 2025-11-05 | 9 | 87 | 9 | 1 | 0 | 127 |
-| last720d | 2024-11-10 | 12 | 121 | 9 | 5 | 0 | 165 |
+| 30d | 2026-10-02 | 0 | 1 | 5 | 0 | 0 | 1 |
+| last60d | 2026-09-02 | 0 | 5 | 7 | 0 | 0 | 4 |
+| 90d | 2026-08-03 | 1 | 17 | 8 | 0 | 0 | 13 |
+| last180d | 2026-05-05 | 1 | 35 | 8 | 0 | 0 | 42 |
+| 360d | 2025-11-06 | 9 | 88 | 9 | 1 | 0 | 126 |
+| last720d | 2024-11-11 | 12 | 121 | 9 | 5 | 0 | 166 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for dnspyre lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T03:31:29Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T03:36:18Z._
