@@ -48,12 +48,12 @@ Total: **7,675** lines of code across **53** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 1 | 6 | 0 | 0 | 1 |
-| last60d | 2026-09-09 | 0 | 4 | 8 | 0 | 0 | 3 |
-| 90d | 2026-08-10 | 0 | 13 | 9 | 0 | 0 | 9 |
-| last180d | 2026-05-12 | 1 | 34 | 9 | 0 | 0 | 41 |
-| 360d | 2025-11-13 | 9 | 87 | 10 | 1 | 0 | 126 |
-| last720d | 2024-11-18 | 12 | 118 | 10 | 5 | 0 | 163 |
+| 30d | 2026-10-10 | 0 | 1 | 5 | 0 | 0 | 1 |
+| last60d | 2026-09-10 | 0 | 4 | 8 | 0 | 0 | 3 |
+| 90d | 2026-08-11 | 0 | 13 | 9 | 0 | 0 | 9 |
+| last180d | 2026-05-13 | 1 | 34 | 9 | 0 | 0 | 41 |
+| 360d | 2025-11-14 | 9 | 87 | 10 | 1 | 0 | 126 |
+| last720d | 2024-11-19 | 12 | 118 | 10 | 5 | 0 | 163 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for dnspyre lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T03:41:18Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T03:53:53Z._
